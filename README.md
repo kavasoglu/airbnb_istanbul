@@ -6,4 +6,4 @@ In this project, we are going to analyse Istanbul data to answer some of the que
 We get the publicly available data from [InsideAirbnb](http://insideairbnb.com/get-the-data.html). To check Istanbul map visualization check [here](http://insideairbnb.com/istanbul/?neighbourhood=&filterEntireHomes=false&filterHighlyAvailable=false&filterRecentReviews=false&filterMultiListings=false)
 
 ### Project Structure
-Data is located under *airbnb_istanbul* folder. Detailed *listings* data is investigated in the *airbnb_istanbul-detailed.ipynb* notebook. 
+Data is located under *airbnb_istanbul* folder which was published on 29 June, 2019. Detailed *listings* data is investigated in the *airbnb_istanbul-detailed.ipynb* notebook. 
